@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1125" viewBox="0 0 900 1125" role="img" aria-label="Photo professionnelle à ajouter">
+  <rect width="900" height="1125" fill="#0f172a"/>
+  <circle cx="450" cy="370" r="150" fill="#2563eb"/>
+  <path d="M190 875c46-190 169-285 260-285s214 95 260 285" fill="#ffffff" opacity="0.92"/>
+  <text x="450" y="1010" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">Ajouter la photo</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Mouhcine Asfoury Portfolio">
+  <rect width="1200" height="630" fill="#f8fafc"/>
+  <rect x="80" y="80" width="1040" height="470" rx="28" fill="#ffffff" stroke="#e2e8f0" stroke-width="4"/>
+  <rect x="135" y="145" width="88" height="88" rx="16" fill="#0f172a"/>
+  <text x="179" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#ffffff">MA</text>
+  <text x="135" y="315" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#0f172a">Mouhcine Asfoury</text>
+  <text x="135" y="375" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#2563eb">Développeur Full Stack</text>
+  <text x="135" y="438" font-family="Arial, sans-serif" font-size="25" font-weight="500" fill="#475569">Applications web modernes, performantes et évolutives.</text>
+</svg>
